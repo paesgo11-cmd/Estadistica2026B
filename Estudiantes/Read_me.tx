@@ -1,0 +1,19 @@
+Acerca del conjunto de datos
+Descripción:
+El Conjunto de Datos de Rendimiento Estudiantil está diseñado para examinar los factores que influyen en el rendimiento académico de los estudiantes. Consta de 10 000 registros estudiantiles, cada uno de los cuales contiene información sobre diversos predictores y un índice de rendimiento.
+
+Variables:
+Horas estudiadas : Número total de horas dedicadas al estudio por cada estudiante.
+Puntuaciones anteriores : Las puntuaciones obtenidas por los estudiantes en exámenes anteriores.
+Actividades extracurriculares : Si el estudiante participa en actividades extracurriculares (Sí o No).
+Horas de sueño : el número promedio de horas de sueño que el estudiante tuvo por día.
+Ejemplos de exámenes practicados : la cantidad de ejemplos de exámenes que el estudiante practicó.
+Variable objetivo :
+
+Índice de Rendimiento : Medida del rendimiento general de cada estudiante. El índice de rendimiento representa el rendimiento académico del estudiante y se ha redondeado al número entero más cercano. El índice oscila entre 10 y 100, donde los valores más altos indican un mejor rendimiento.
+El conjunto de datos busca comprender la relación entre las variables predictoras y el índice de rendimiento. Investigadores y analistas de datos pueden utilizar este conjunto para explorar el impacto de las horas de estudio, las calificaciones previas, las actividades extracurriculares, las horas de sueño y los cuestionarios de muestra en el rendimiento estudiantil.
+
+PD : Tenga en cuenta que este conjunto de datos es sintético y se creó con fines ilustrativos. Las relaciones entre las variables y el índice de rendimiento podrían no reflejar situaciones reales.
+
+Licencia :
+Cualquiera es libre de compartir y utilizar los datos.
