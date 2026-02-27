@@ -1,1 +1,0 @@
-# Estadistica2026B
