@@ -1,1 +1,11 @@
+Acerca del conjunto de datos
+Descripción: Este conjunto de datos está diseñado para predecir el consumo energético en función 
+de diversas características de los edificios y factores ambientales. Contiene datos sobre diversos 
+tipos de edificios, superficie, número de ocupantes, electrodomésticos utilizados, temperatura media 
+y día de la semana. El objetivo es crear un modelo predictivo para estimar el consumo energético 
+utilizando estos atributos.
 
+El conjunto de datos se puede utilizar para entrenar modelos de aprendizaje automático, como la regresión 
+lineal, para pronosticar las necesidades energéticas según las características del edificio. Esto resulta 
+útil para comprender los patrones de demanda energética y optimizar el consumo energético en diferentes 
+tipos de edificios y condiciones ambientales.
